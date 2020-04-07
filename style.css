@@ -1,0 +1,152 @@
+.logo_url {
+	color: black !important;
+}
+
+body {
+	background-color: #f5f5f5;
+	margin: auto;
+	font-family: "Calibri", sans-serif;
+}
+
+img {
+	margin: auto;
+}
+
+h1 {
+	margin: auto;
+	text-align: center;
+	font-family: "Calibri", sans-serif;
+	font-size: 26px;
+}
+
+th {
+	padding: 0px 10px 0px 10px;
+	background-color: white;
+	border-width: 1px;
+	border-color: gray;
+	border-style: solid;
+}
+
+td {
+	border-width: 1px;
+	border-color: #909090;
+	border-style: solid;
+}
+
+table {
+	width: 95%;
+	clear: both;
+	margin: 30px auto;
+	box-shadow: 1px 1px 5px #585858;
+
+}
+
+a {
+	color: #40529b;
+	text-decoration: none;
+}
+
+h2 {
+	padding: 0px 0px 0px 20px;
+}
+
+tr:nth-child(2n) {
+	background-color: #f8f8f8;
+}
+
+tr:nth-child(2n+1) {
+	background-color: #e0e0e0;
+}
+
+button { 
+	margin: 5px;
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px 10px;
+	box-shadow: 1px 1px 1px #585858;
+	background-color: #ffffff;
+}
+
+.results {
+	padding: 10px 0px 20px 50px;
+	width: 800px;
+}
+
+.searching {
+	padding: 10px 0px 20px 50px;
+}
+
+.intro {
+	padding: 20px 0px 0px 50px;
+}
+
+.info {
+	background-color: #ffffcc;
+	padding: 10px;
+	border-radius: 3px;
+	margin: 10px 20px 20px 20px;
+	width: 300px;
+	box-shadow: 1px 1px 5px #585858;
+}
+
+.discounts_table {
+	
+	margin: auto;
+}
+
+.brand {
+	width: 150px;
+}
+
+.searcher {
+	border: 1px solid black;
+	width: 1000px;
+}
+
+.first_column {
+	font-weight: bold;
+}
+
+.area_header {
+	background-color: white;
+	margin: auto;
+	padding: 10px;
+	border-radius: 8px 8px 0px 0px;
+	font-size: 22px;
+	font-weight: bold;
+	box-shadow: 1px 1px 5px #585858;
+}
+
+.area {
+	background-color: #D8D8D8;
+	padding: 10px;
+	border-radius: 0px 0px 8px 8px;
+	box-shadow: 1px 1px 5px #585858;
+}
+
+.block {
+	clear: both;
+	width: 70%;
+	margin: auto;
+}
+
+.mother_block {
+	width: 70%;
+	margin: auto;
+}
+
+.block_left {
+	padding: 5px 0px 10px 0px;
+	float: left;
+	width: 49.5%;
+	margin: auto;
+}
+
+.block_right {
+	padding: 5px 0px 10px 0px;
+	float: right;
+	width: 49.5%;
+	margin: auto;
+}
+
